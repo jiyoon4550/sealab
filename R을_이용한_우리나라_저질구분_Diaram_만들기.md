@@ -1,23 +1,4 @@
----
-title: "R을 이용한 우리나라 저질구분 Diaram 만들기"
-author: "jiyoon Lee"
-date: '2020 6 11 '
-output:
-  html_document:
-    toc: yes
-    toc_float:
-      collapsed: no
-      smooth_scroll: no
-    number_sections: yes
-    code_folding: show
-    theme: readable
-    highlight: textmate
-    df_print: kable
-    keep_md: true
-# output:
-#   md_document:
-#     variant: markdown_github
----
+
 
 
 ***
